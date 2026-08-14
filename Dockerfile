@@ -1,1 +1,1 @@
-FROM docker.io/istio/pilot:1.26.3
+FROM registry.istio.io/release/pilot:1.30.3
